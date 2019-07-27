@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Комментарии на сайте softconsult	</title>
-	<atom:link href="/https://dmitrmaster.github.io/softconsult/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://dmitrmaster.github.io/softconsult/</link>
+	<atom:link href="https://dmitrmaster.github.io/softconsult/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dmitrmaster.github.io/softconsult/</link>
 	<description>Software solutions and  management consulting</description>
 	<lastBuildDate>2019-07-23 13:12:09</lastBuildDate>
 	<sy:updatePeriod>
